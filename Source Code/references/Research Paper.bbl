@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{abdar2019performance}
+Moloud Abdar, Elham Nasarian, Xujuan Zhou, Ghazal Bargshady, Vivi~Nur
+  Wijayaningrum, and Sadiq Hussain.
+\newblock Performance improvement of decision trees for diagnosis of coronary
+  artery disease using multi filtering approach.
+\newblock In {\em 2019 IEEE 4th International Conference on Computer and
+  Communication Systems (ICCCS)}, pages 26--30. IEEE, 2019.
+
+\bibitem{ahmad2022comparative}
+Ghulab~Nabi Ahmad, Shafi Ullah, Abdullah Algethami, Hira Fatima, and Syed
+  Md~Humayun Akhter.
+\newblock Comparative study of optimum medical diagnosis of human heart disease
+  using machine learning technique with and without sequential feature
+  selection.
+\newblock {\em ieee access}, 10:23808--23828, 2022.
+
+\bibitem{alizadehsani2019machine}
+Roohallah Alizadehsani, Moloud Abdar, Mohamad Roshanzamir, Abbas Khosravi,
+  Parham~M Kebria, Fahime Khozeimeh, Saeid Nahavandi, Nizal Sarrafzadegan, and
+  U~Rajendra Acharya.
+\newblock Machine learning-based coronary artery disease diagnosis: A
+  comprehensive review.
+\newblock {\em Computers in biology and medicine}, 111:103346, 2019.
+
+\bibitem{chang2019new}
+Wenbing Chang, Yinglai Liu, Xueyi Wu, Yiyong Xiao, Shenghan Zhou, and Wen Cao.
+\newblock A new hybrid xgbsvm model: application for hypertensive heart
+  disease.
+\newblock {\em Ieee Access}, 7:175248--175258, 2019.
+
+\bibitem{mienye2020improved}
+Ibomoiye~Domor Mienye, Yanxia Sun, and Zenghui Wang.
+\newblock An improved ensemble learning approach for the prediction of heart
+  disease risk.
+\newblock {\em Informatics in Medicine Unlocked}, 20:100402, 2020.
+
+\bibitem{shorewala2021early}
+Vardhan Shorewala.
+\newblock Early detection of coronary heart disease using ensemble techniques.
+\newblock {\em Informatics in Medicine Unlocked}, 26:100655, 2021.
+
+\bibitem{yekkala2017prediction}
+Indu Yekkala, Sunanda Dixit, and MA~Jabbar.
+\newblock Prediction of heart disease using ensemble learning and particle
+  swarm optimization.
+\newblock In {\em 2017 International Conference On Smart Technologies For Smart
+  Nation (SmartTechCon)}, pages 691--698. IEEE, 2017.
+
+\end{thebibliography}

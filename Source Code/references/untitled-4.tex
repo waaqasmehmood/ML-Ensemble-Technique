@@ -1,0 +1,36 @@
+\documentclass[journal, twoside, final]{IEEEtran}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{multirow}
+
+% Adjust the page layout
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{figure*}[!ht]
+  \centering
+  \caption{Attribute Description}
+  \begin{tabular}{|c|l|p{5cm}|l|}
+    \hline
+    \textbf{No} & \textbf{Attribute} & \textbf{Description} & \textbf{Values} \\
+    \hline
+    1 & age & Age of patient & Age numeric values \\
+    2 & gender & Gender & 1-Male, 0-Female \\
+    3 & C\_P & Chest-pain & 1 = typ-ang, 2 = atypAng, 3 = non-ang \\
+    4 & trest\_bps & Blood-pressure in rest & BP values \\
+    5 & CHOL & Dietary fat & Cholesterol values \\
+    6 & F-B-S & Sugar in blood & 1 = present, 0 = Absent \\
+    7 & restecg & Echocardiography at rest & 1=Abnormal-ECG, 0=Normal \\
+    8 & oldpeak & Exercise related to rest & Different values \\
+    9 & slope & ST depression slope & 0, 1, 2 represent different slopes \\
+    10 & CA & Vessels & 0, 1, 2, 3 values represent how your arteries are affected \\
+    11 & thal & Thalassemia & 0, 1, 2, 3 represent colored Fluoroscopy vessels \\
+    12 & thalach & Patient maximum heart rate & Heart rate values \\
+    13 & exang & Angina with exercise & 1=present, 0=absent \\
+    14 & target & Heart Disease & 1=effected person, 0=healthy \\
+    \hline
+  \end{tabular}
+\end{figure*}
+
+\end{document}
